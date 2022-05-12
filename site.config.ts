@@ -9,23 +9,27 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Next.js Notion Starter Kit',
-  domain: 'nextjs-notion-starter-kit.transitivebullsh.it',
-  author: 'Travis Fischer',
+  name: 'Dabid',
+  domain: 'nextjs-blog-hanalia.vercel.app/',
+  author: 'David Jeong',
 
   // open graph metadata (optional)
   description: 'Example Next.js Notion Starter Kit Site',
 
   // social usernames (optional)
-  twitter: 'transitive_bs',
-  github: 'transitive-bullshit',
-  linkedin: 'fisch2',
+  // twitter: 'hanalia',
+  github: 'hanalia',
+  linkedin: 'seuk-yoon-jeong-053a2510b',
 
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
   defaultPageIcon: null,
   defaultPageCover: null,
   defaultPageCoverPosition: 0.5,
+
+
+  // Utteranc.es comments via GitHub issue comments (optional)
+  utterancesGitHubRepo: 'hanmilLee/nextjs-notion-starter-kit',
 
   // whether or not to enable support for LQIP preview images (optional)
   isPreviewImageSupportEnabled: true,
