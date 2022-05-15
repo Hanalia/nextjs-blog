@@ -18,8 +18,7 @@ import {
   getBlockTitle,
   getPageProperty,
   formatDate,
-  normalizeTitle,
-  parsePageId
+  normalizeTitle
 } from 'notion-utils'
 import { mapPageUrl, getCanonicalPageUrl } from 'lib/map-page-url'
 import { mapImageUrl } from 'lib/map-image-url'
@@ -35,7 +34,6 @@ import { PageHead } from './PageHead'
 import { PageAside } from './PageAside'
 import { Footer } from './Footer'
 import { NotionPageHeader } from './NotionPageHeader'
-import { GitHubShareButton } from './GitHubShareButton'
 
 import styles from './styles.module.css'
 
