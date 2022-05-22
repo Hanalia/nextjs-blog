@@ -15,7 +15,10 @@ export default class MyDocument extends Document {
               sizes='32x32'
               href='favicon.png'
             />
-
+            <meta
+              name='google-site-verification'
+              content='KHBfV1MYffII8fg_qHPhLL97_GUC6dBS39mbAkv9d1M'
+            />
             <link rel='manifest' href='/manifest.json' />
           </Head>
 
