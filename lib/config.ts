@@ -142,6 +142,10 @@ export const site: Site = {
   description
 }
 
+
+export const GAId = isDev ? null : process.env.NEXT_PUBLIC_GA_ID
+
+
 export const fathomId = isDev ? null : process.env.NEXT_PUBLIC_FATHOM_ID
 export const fathomConfig = fathomId
   ? {
