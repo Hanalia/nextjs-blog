@@ -14,7 +14,7 @@ export default siteConfig({
   author: 'David Jeong',
 
   // open graph metadata (optional)
-  description: 'Example Next.js Notion Starter Kit Site',
+  // description: 'I love data',
 
   // social usernames (optional)
   // twitter: 'hanalia',
@@ -29,7 +29,7 @@ export default siteConfig({
 
 
   // Utteranc.es comments via GitHub issue comments (optional)
-  utterancesGitHubRepo: 'hanmilLee/nextjs-notion-starter-kit',
+  utterancesGitHubRepo: 'Hanalia/nextjs-blog',
 
   // whether or not to enable support for LQIP preview images (optional)
   isPreviewImageSupportEnabled: true,
