@@ -16,6 +16,10 @@ export default class MyDocument extends Document {
               href='favicon.png'
             />
             <meta
+              name='naver-site-verification'
+              content='df296b95d936b69ff6ffef674394b1e95143189b'
+            />
+            <meta
               name='google-site-verification'
               content='KHBfV1MYffII8fg_qHPhLL97_GUC6dBS39mbAkv9d1M'
             />
