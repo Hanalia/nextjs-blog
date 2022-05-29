@@ -1,6 +1,6 @@
 {
-  "name": "Next.js Notion Starter Kit",
-  "short_name": "Starter Kit",
+  "name": "Dabid Blog",
+  "short_name": "Dabid Blog",
   "icons": [
     {
       "src": "/favicon.png",
@@ -8,14 +8,9 @@
       "sizes": "32x32"
     },
     {
-      "src": "/favicon-128x128.png",
+      "src": "/favicon-32x32.png",
       "type": "image/png",
-      "sizes": "128x128"
-    },
-    {
-      "src": "/favicon-192x192.png",
-      "type": "image/png",
-      "sizes": "192x192"
+      "sizes": "32x32"
     }
   ],
   "theme_color": "#000000",
