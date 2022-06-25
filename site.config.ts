@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'Dabid',
-  domain: 'nextjs-blog-hanalia.vercel.app/',
+  domain: 'nextjs-blog-hanalia.vercel.app',
   author: 'David Jeong',
 
   // open graph metadata (optional)

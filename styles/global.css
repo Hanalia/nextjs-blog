@@ -1,5 +1,9 @@
+@import url(//spoqa.github.io/spoqa-han-sans/css/SpoqaHanSansNeo.css);
+@import url(//spoqa.github.io/spoqa-han-sans/css/SpoqaHanSans-jp.css);
+
 * {
   box-sizing: border-box;
+  font-family: 'Spoqa Han Sans Neo', 'Spoqa Han Sans JP', sans-serif;
 }
 
 a {
